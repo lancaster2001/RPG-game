@@ -1,0 +1,1 @@
+Level:1¦Skill points0¦Experience:0¦Gold:0¦Class:Warrior¦Health points:120¦Atack:120¦Magic attack:120¦Defence:120¦Magic defence:120¦Speed:120¦Critical chance:0¦Critical damage:0¦Dodge chance:0¦Regeneration:0¦Experience boost:0¦Gold boost:0¦

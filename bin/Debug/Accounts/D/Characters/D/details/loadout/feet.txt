@@ -1,0 +1,1 @@
+ID:0,Image:blank,Type:all,Level:1,Class:all,Health points:0,Atack:0,Magic attack:0,Defence:0,Magic defence:0,Speed:0,Critical chance:0,Critical damage:0,Dodge chance:0,Regeneration:0,Experience boost:0,Gold boost:0,Value:0,Description:empty

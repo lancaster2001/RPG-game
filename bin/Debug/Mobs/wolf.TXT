@@ -1,0 +1,1 @@
+Healthpoints:120¦Attack:120¦Magicattack:120¦Defence:120¦Magicdefence:120¦Speed:120¦Experience:5-10¦Gold:1-2¦Moves:scratch.bite

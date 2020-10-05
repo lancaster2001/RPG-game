@@ -1,0 +1,10 @@
+wall*wall*wall*wall*wall*wall*wall*wall*wall*wall*wall
+wall*plainland_1,worldspawn*plainland*plainland,grass*plainland*plainland*plainland*plainland*plainland*plainland*wall
+wall*plainland*plainland*plainland,grass*plainland*plainland*plainland*plainland*plainland*plainland*wall
+wall*plainland*plainland*plainland*plainland*plainland*plainland*plainland*plainland*plainland*wall
+wall*plainland*plainland*plainland*plainland*plainland*plainland*plainland*plainland,grass*plainland*wall
+wall*plainland*plainland,grass*plainland*plainland,grass*plainland*plainland*plainland*plainland*plainland*wall
+wall*plainland*plainland*plainland*plainland*plainland*plainland*plainland*plainland*plainland*wall
+wall*plainland*plainland,grass*plainland*plainland*plainland*plainland*plainland*plainland*plainland*wall
+wall*plainland*plainland*plainland*plainland*plainland,grass*plainland*plainland*plainland*plainland*wall
+wall*wall*wall*wall*wall*wall*wall*wall*wall*wall*wall

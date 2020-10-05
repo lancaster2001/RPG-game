@@ -1,0 +1,1 @@
+Type:physical,Power:10

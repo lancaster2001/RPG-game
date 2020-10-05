@@ -1,0 +1,1 @@
+Map:map_test¦Character X:5¦Character Y:4¦Camera X:3¦Camera Y:2¦Camera Width:5¦Camera Height:5
